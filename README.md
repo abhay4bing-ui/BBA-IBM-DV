@@ -1,2 +1,10 @@
 # BBA-IBM-DV
 Ppt for Data visualization on Power BI
+
+Group no. 8
+
+ABHAY YADAV-
+HARSH VARDHAN-
+SHANTANU TIWARI-
+YUGANK RAI-
+MOHAMMAD FARHAN SHEKH
